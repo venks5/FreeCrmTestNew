@@ -1,7 +1,13 @@
 D:\FreeCRMTest\src\main\java\com\crm\qa\pages\DealsPage.java
 D:\FreeCRMTest\src\main\java\com\crm\qa\pages\HomePage.java
+D:\FreeCRMTest\src\test\java\com\crm\qa\testcases\ContactsPageTest.java
+D:\FreeCRMTest\src\main\java\com\crm\qa\ExtentReportListener\ExtentReportListener.java
 D:\FreeCRMTest\src\main\java\com\crm\qa\pages\ContactsPage.java
-D:\FreeCRMTest\src\main\java\com\crm\qa\util\TestUtil.java
 D:\FreeCRMTest\src\main\java\com\crm\qa\pages\LoginPage.java
 D:\FreeCRMTest\src\main\java\com\crm\qa\base\TestBase.java
+D:\FreeCRMTest\src\test\java\com\crm\qa\testcases\HomePageTest.java
 D:\FreeCRMTest\src\main\java\com\crm\qa\pages\SignUpPage.java
+D:\FreeCRMTest\src\main\java\com\crm\qa\util\WebEventListener.java
+D:\FreeCRMTest\src\main\java\com\crm\qa\pages\TasksPage.java
+D:\FreeCRMTest\src\test\java\com\crm\qa\testcases\LoginPageTest.java
+D:\FreeCRMTest\src\main\java\com\crm\qa\util\TestUtil.java
